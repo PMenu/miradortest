@@ -5,4 +5,7 @@
     width: 50%;
   }
 
-  .button {border-radius: 50px;}
+  .btn {
+    border-radius: 30px;
+  }
+  
