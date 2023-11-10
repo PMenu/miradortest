@@ -34,9 +34,9 @@
     padding: 60px;
   }
   .footer-row .footer-col h4 {
-    color: #052652;
+    color: #001a3f;
     font-size: 1.2rem;
-    font-weight: 400;
+    font-weight: 600;
   }
   .footer-col .Info {
     margin-top: 20px;
@@ -44,6 +44,7 @@
   .footer-col .Info li {
     list-style: none;
     margin-bottom: 10px;
+    color: #fff;
   }
   .footer-col .Info li a {
     text-decoration: none;
